@@ -7,11 +7,11 @@ title: Flyout
 
 ## Props
 
-Inherits [View Props](https://reactnative.dev/docs/view#props).
+继承 [View Props](https://reactnative.dev/docs/view#props).
 
 ### horizonalOffset
 
-Specifies horizontal offset from spawn point.
+水平偏移像素
 
 | type | required |
 |:--|:--|
@@ -19,7 +19,7 @@ Specifies horizontal offset from spawn point.
 
 ### verticalOffset
 
-Specifies vertical offset from spawn point.
+垂直偏移像素
 
 | type | required |
 |:--|:--|
